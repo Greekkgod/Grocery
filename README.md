@@ -7,10 +7,12 @@ This project is a comprehensive Grocery Store Management Website designed to str
 <h5>Features</h5>
 <br>
 User-Friendly Interface: A clean and intuitive UI built with HTML and CSS for easy navigation.
+<br>
 Inventory Management: Track stock levels, add new products, and update existing product details.
 Sales Management: Record sales transactions, generate receipts, and monitor sales trends.
 Customer Management: Store customer information and track purchase history.
 Database Integration: A MySQL database to store and manage all essential data securely.
+<br>
 Python Backend: Handle server-side operations and database interactions seamlessly.
 Technologies Used
 HTML & CSS: For creating the responsive and user-friendly front-end.
